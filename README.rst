@@ -32,7 +32,6 @@ Further reading:
 * `Twitter account for news and updates`_
 * `Discord`_
 * `PyPI page`_
-* `Transifex project`_ - translating Oscar made easy
 
 .. start-no-pypi
 
@@ -69,7 +68,6 @@ Docs status:
 .. _`Twitter account for news and updates`: https://twitter.com/#!/django_oscar
 .. _`django-oscar group`: https://groups.google.com/forum/?fromgroups#!forum/django-oscar
 .. _`PyPI page`: https://pypi.python.org/pypi/django-oscar/
-.. _`Transifex project`: https://www.transifex.com/projects/p/django-oscar/
 .. _`Discord`: https://discord.gg/NMwfZuJnJZ
 
 Core team:
